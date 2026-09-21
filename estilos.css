@@ -1,20 +1,47 @@
 body {
-    background-color: rgb(254, 132, 252);
+    margin: 0;
+    background-color: rgb(238, 84, 207);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 0px;
+    color: #085c7e;
 }
-h1{
-color: rgb(2, 148, 150);
-font-size: 5em;
+
+h1 {
+    color: rgb(103, 188, 18);
+    font-size: 3em;
 }
+
+h2{
+    font-size: 1.5rem;
+}
+
 p{
-    line-height: 10;
+    line-height: 1.5;
 }
+
+header p{
+    font-size: 1.1rem;
+}
+
 header{
     padding: 40px;
     text-align: center;
-    background-color: rgb(255, 124, 124);
+    background-color: #486574;
+    color: rgb(68, 68, 141);
 }
+
 main{
     padding: 30px;
+    padding: 30px;
+    margin: auto;
+}
+
+section{
+    background-color: rgb(38, 84, 0);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
 }
